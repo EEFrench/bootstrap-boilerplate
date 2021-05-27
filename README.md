@@ -4,8 +4,8 @@
 The Take Home Challenge involved the following:
 1. Read the Documentation Best Practices article (I did)
 2. Complete the README.md (that's what this is)
-3. Save to the new branch "readme" (I have created the new branch, and will save it when I'm done with this)
-4. Pull your chances locally (will do )
+3. Save to the new branch "readme" (done)
+4. Pull your chances locally (done)
 
 ## Daily Challenge
 The Daily Challenge consited of:
