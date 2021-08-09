@@ -1,6 +1,6 @@
-# Bootstrap-Boilerplate
+# Template
 
-### Day 3 Take Home Challenge
+### Info
 The Take Home Challenge involved the following:
 1. Read the Documentation Best Practices article (I did)
 2. Complete the README.md (that's what this is)
@@ -22,5 +22,5 @@ Push your changes to your starter-files branch
 
 > The above Daily Challenge was completed during class and has been uploaded to my Main Branch
 
-## Prequidites
+## Perquisites
 None
